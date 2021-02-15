@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "Web Order Suite Name">
+
+<test name = "Login Test Case">
+<classes>
+<class name = "testCases.Test_Login_Test_Case"> </class>
+</classes>
+</test>
+
+<test name = "Order Process with 10 Products Test Case">
+<classes>
+<class name = "testCases.Test_Raise_Order_with_10_Product" > </class>
+</classes>
+</test>
+
+<test name = "Datash board Test Case">
+<classes>
+<class name = "testCases.Test_Dash_Board" > </class>
+</classes>
+</test>
+
+</suite>

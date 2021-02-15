@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Web Order Suite Name]">
+  <test thread-count="5" name="Datash board Test Case(failed)">
+    <classes>
+      <class name="testCases.Test_Dash_Board">
+        <methods>
+          <include name="dashBoardPageTesting"/>
+          <include name="tearDown"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- testCases.Test_Dash_Board -->
+    </classes>
+  </test> <!-- Datash board Test Case(failed) -->
+</suite> <!-- Failed suite [Web Order Suite Name] -->
